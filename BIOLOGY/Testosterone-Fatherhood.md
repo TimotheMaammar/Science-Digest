@@ -1,6 +1,6 @@
 # Testosterone and fatherhood
 
-# About
+## About
 
 Title: Longitudinal evidence that fatherhood decreases testosterone in human males
 
@@ -10,7 +10,7 @@ Researchers : Lee T. Gettler, Thomas W. McDade, Alan B. Feranil, Christopher W. 
 
 Date : 09/2011
 
-# Synthesis
+## Synthesis
 
 In species where males care for young, testosterone is typically high during mating competition then declines to allow for offspring caregiving. This study tests whether this model applies to humans, using a longitudinal intra-individual design on 624 Filipino men followed between 2005 and 2009 over 4.5 years. Crucially, the design resolves both causal directions at once: men with high waking testosterone at baseline were more likely to become partnered fathers by follow-up (p < 0.05), ruling out the hypothesis that lower-testosterone men simply reproduce more.
 
