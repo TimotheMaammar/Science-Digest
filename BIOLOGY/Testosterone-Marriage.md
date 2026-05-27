@@ -8,6 +8,8 @@ Link : https://pubmed.ncbi.nlm.nih.gov/28376340/
 
 Researchers : Stine A. Holmboe, Lærke Priskorn, Niels Jørgensen, Niels E. Skakkebaek, Allan Linneberg, Anders Juul, Anna-Maria Andersson
 
+Date : 06/2017
+
 ## Synthesis
 
 A landmark longitudinal study from Denmark followed 1113 men aged 30-60 over a 10-year period using the MONICA cohort, with baseline data collected between 1982 and 1984. By tracking intra-individual testosterone changes over time rather than simply comparing married vs. single men at a single point, the study directly addresses the classic chicken-and-egg problem: do men with lower testosterone tend to marry, or does marriage itself cause testosterone to drop?
